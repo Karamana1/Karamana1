@@ -31,7 +31,7 @@
 
 - **Name:** Oum Ussa
 - **Location:** Cambodia :cambodia:
-- **Education:** ANT Scholarship Student
+- **Education:** RUPP Student
 - **Role:** Full-Stack Developer
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" width="20" /> I'm currently building **web and mobile applications**
