@@ -171,21 +171,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<!-- ===== GITHUB TROPHIES ===== -->
-<div align="center">
-
-## 🏆 &nbsp; GitHub Trophies
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=OumUssa&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
 <!-- ===== GITHUB STATS ===== -->
 <div align="center">
 
@@ -235,7 +220,24 @@
 
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<!-- ===== SNAKE ===== -->
+<div align="center">
+
+## 🐍 &nbsp; Contribution Snake
+
 <br/>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <!-- ===== SUPPORT ===== -->
 <div align="center">
