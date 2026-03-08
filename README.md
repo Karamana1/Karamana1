@@ -1,214 +1,274 @@
 <!-- ===== HEADER ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:58a6ff&height=200&section=header&text=Oum%20Ussa&fontColor=58a6ff&fontSize=50&fontAlignY=35&desc=Full-Stack%20Developer%20from%20Cambodia%20%F0%9F%87%B0%F0%9F%87%AD&descSize=16&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3F3D56,100:6C63FF&height=230&section=header&text=Oum%20Ussa&fontColor=ffffff&fontSize=60&fontAlignY=32&desc=Full-Stack%20Developer%20%E2%80%A2%20Cambodia%20%F0%9F%87%B0%F0%9F%87%AD&descSize=18&descAlignY=52&descColor=e0e0e0&animation=fadeIn" width="100%" />
 </div>
 
 <!-- ===== TYPING INTRO ===== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=520&height=45&lines=Hey+there+%F0%9F%91%8B+I'm+Oum+Ussa;RUPP+Student+%F0%9F%8E%93;Building+Web+%26+Mobile+Applications;Always+learning+new+things+%F0%9F%92%A1" alt="Typing SVG" />
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Oum+Ussa;%F0%9F%8E%93+RUPP+Computer+Science+Student;%F0%9F%9A%80+Building+Web+%26+Mobile+Apps;%F0%9F%92%BB+Passionate+about+Clean+Code;%F0%9F%92%A1+Always+learning+something+new" alt="Typing SVG" />
+  </a>
 </div>
 
 <!-- ===== BADGES ===== -->
 <p align="center">
   <a href="https://github.com/Karamana1?tab=followers">
-    <img src="https://img.shields.io/github/followers/Karamana1?style=flat&logo=github&label=Followers&color=236ad3&labelColor=1155ba" />
+    <img src="https://img.shields.io/github/followers/Karamana1?style=for-the-badge&logo=github&label=Followers&color=6C63FF&labelColor=1a1a2e" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Karamana1&style=flat&color=236ad3&labelColor=1155ba" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Karamana1&style=for-the-badge&color=6C63FF&labelColor=1a1a2e" />
+  &nbsp;
   <a href="https://github.com/Karamana1?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/Karamana1?style=flat&logo=github&label=Stars&color=236ad3&labelColor=1155ba" />
+    <img src="https://img.shields.io/github/stars/Karamana1?style=for-the-badge&logo=github&label=Stars&color=6C63FF&labelColor=1a1a2e" />
   </a>
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <!-- ===== ABOUT ME ===== -->
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="28" />
-  &nbsp;About Me
-</h2>
-
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="120" />
-
-- **Name:** Oum Ussa
-- **Location:** Cambodia :cambodia:
-- **Education:** RUPP Student
-- **Role:** Full-Stack Developer
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" width="20" /> I'm currently building **web and mobile applications**
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="20" /> I'm learning **Advanced Backend, System Design & DevOps**
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speech%20Balloon.png" width="20" /> Ask me about **Node.js, Laravel, PHP, Flutter, C++**
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="20" /> Reach me at **oumussa719@gmail.com**
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="20" /> Fun fact: **I love building secure systems with clean UI**
-
----
-
-<!-- ===== CONNECT ===== -->
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="25" />
-  &nbsp;Connect With Me
-</h2>
-
 <div align="center">
-  <a href="mailto:oumussa719@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Karamana1" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://t.me/" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</div>
 
----
+## 👨‍💻 &nbsp; About Me
 
-<!-- ===== TECH STACK ===== -->
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25" />
-  &nbsp;Tech Stack
-</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=cpp" width="48" /><br/>
-      <sub><b>C++</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=php" width="48" /><br/>
-      <sub><b>PHP</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=js" width="48" /><br/>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=html" width="48" /><br/>
-      <sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=css" width="48" /><br/>
-      <sub><b>CSS3</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" /><br/>
-      <sub><b>Node.js</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=express" width="48" /><br/>
-      <sub><b>Express</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=laravel" width="48" /><br/>
-      <sub><b>Laravel</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=flutter" width="48" /><br/>
-      <sub><b>Flutter</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" /><br/>
-      <sub><b>MySQL</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" /><br/>
-      <sub><b>MongoDB</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=git" width="48" /><br/>
-      <sub><b>Git</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=github" width="48" /><br/>
-      <sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" /><br/>
-      <sub><b>VS Code</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" /><br/>
-      <sub><b>Postman</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" /><br/>
-      <sub><b>Linux</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" /><br/>
-      <sub><b>Docker</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=dart" width="48" /><br/>
-      <sub><b>Dart</b></sub>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- ===== GITHUB STATS ===== -->
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=OumUssa&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=OumUssa&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=OumUssa&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-</div>
-
-
----
-
-<!-- ===== CONTRIBUTION GRAPH ===== -->
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25" />
-  &nbsp;Contribution Graph
-</h2>
-
-<div align="center">
-  <a href="https://github.com/Karamana1">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karamana1&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true&custom_title=Oum%20Ussa's%20Contribution%20Graph" width="100%" />
-  </a>
-</div>
-
----
-
-<!-- ===== SNAKE ===== -->
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-
-<!-- ===== FOOTER ===== -->
-<div align="center">
-  <sub>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="16" />
-    Thanks for visiting! Feel free to <a href="https://github.com/Karamana1">follow</a> or star a repo if you find something useful.
-  </sub>
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=100&section=footer" width="100%" />
+<div align="center">
+  <table>
+    <tr>
+      <td width="55%">
+
+> 🎓 &nbsp; **RUPP** Computer Science Student
+>
+> 🌏 &nbsp; Based in **Cambodia** 🇰🇭
+>
+> 🔭 &nbsp; Currently building **web & mobile apps**
+>
+> 📖 &nbsp; Learning **System Design & DevOps**
+>
+> 💬 &nbsp; Ask me about **Node.js, Laravel, Flutter, C++**
+>
+> 📬 &nbsp; Reach me at **oumussa719@gmail.com**
+>
+> ⚡ &nbsp; Fun fact: **I love secure systems with clean UI**
+
+  </td>
+      <td width="45%" align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<!-- ===== CURRENT FOCUS ===== -->
+<div align="center">
+
+## 🎯 &nbsp; What I'm Working On
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <br/>
+      <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+      <br/><br/>
+      <b>Backend APIs</b>
+      <br/>
+      <sub>Node.js & Laravel</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="25%">
+      <br/>
+      <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+      <br/><br/>
+      <b>Mobile Apps</b>
+      <br/>
+      <sub>Flutter Cross-Platform</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="25%">
+      <br/>
+      <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+      <br/><br/>
+      <b>DevOps</b>
+      <br/>
+      <sub>Docker & CI/CD</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="25%">
+      <br/>
+      <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+      <br/><br/>
+      <b>Security</b>
+      <br/>
+      <sub>Secure System Design</sub>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<!-- ===== TECH STACK ===== -->
+<div align="center">
+
+## 🛠️ &nbsp; Tech Stack
+
+<br/>
+
+|                |                                                                                                |
+| :------------: | :--------------------------------------------------------------------------------------------: |
+| **Languages**  |        <img src="https://skillicons.dev/icons?i=cpp,php,js,dart,html,css&theme=dark" />        |
+| **Frameworks** |     <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,flutter&theme=dark" />     |
+| **Databases**  |         <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" />         |
+|   **Tools**    | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker&theme=dark" /> |
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<!-- ===== CONNECT ===== -->
+<div align="center">
+
+## 🔗 &nbsp; Connect With Me
+
+<br/>
+
+<a href="mailto:oumussa719@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/Karamana1" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://t.me/" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<!-- ===== GITHUB TROPHIES ===== -->
+<div align="center">
+
+## 🏆 &nbsp; GitHub Trophies
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=OumUssa&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<!-- ===== GITHUB STATS ===== -->
+<div align="center">
+
+## ⚡ &nbsp; GitHub Stats
+
+<br/>
+
+<img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=OumUssa&count_private=true&theme=tokyonight&border_radius=10&hide_border=true&background=0d1117" alt="streak stats"/>
+&nbsp;
+<img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=OumUssa&count_private=true&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0d1117" alt="readme stats" />
+
+<br/><br/>
+
+<img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=OumUssa&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0d1117" alt="top langs" />
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<!-- ===== CONTRIBUTION GRAPH ===== -->
+<div align="center">
+
+## 📊 &nbsp; Contribution Graph
+
+<br/>
+
+<a href="https://github.com/Karamana1">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OumUssa&theme=tokyo-night&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&area_color=6C63FF&hide_border=true&custom_title=Oum%20Ussa's%20Contribution%20Graph" width="100%" />
+</a>
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<!-- ===== RANDOM DEV QUOTE ===== -->
+<div align="center">
+
+## 💡 &nbsp; Dev Quote
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
+</div>
+
+<br/>
+
+<!-- ===== SUPPORT ===== -->
+<div align="center">
+
+## 💜 &nbsp; Support
+
+If you like what I do, consider giving a **⭐** to my repos!
+
+<br/>
+
+<a href="https://github.com/Karamana1?tab=repositories">
+  <img src="https://img.shields.io/badge/Check%20Out%20My%20Repos-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ===== FOOTER ===== -->
+<div align="center">
+
+👋 **Thanks for visiting my profile!**
+
+<sub>Feel free to <a href="https://github.com/Karamana1">follow</a> or star a repo if you find something useful.</sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Made%20with-❤️-6C63FF?style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/Powered%20by-GitHub-181717?style=flat-square&logo=github" />
+
+<br/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3F3D56,100:6C63FF&height=120&section=footer" width="100%" />
