@@ -14,13 +14,13 @@
 <!-- ===== BADGES ===== -->
 <p align="center">
   <a href="https://github.com/Karamana1?tab=followers">
-    <img src="https://img.shields.io/github/followers/Karamana1?style=for-the-badge&logo=github&label=Followers&color=6C63FF&labelColor=1a1a2e" />
+    <img src="https://img.shields.io/github/followers/OumUssa?style=for-the-badge&logo=github&label=Followers&color=6C63FF&labelColor=1a1a2e" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Karamana1&style=for-the-badge&color=6C63FF&labelColor=1a1a2e" />
+  <img src="https://komarev.com/ghpvc/?username=OumUssa&style=for-the-badge&color=6C63FF&labelColor=1a1a2e" />
   &nbsp;
   <a href="https://github.com/Karamana1?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/Karamana1?style=for-the-badge&logo=github&label=Stars&color=6C63FF&labelColor=1a1a2e" />
+    <img src="https://img.shields.io/github/stars/OumUssa?style=for-the-badge&logo=github&label=Stars&color=6C63FF&labelColor=1a1a2e" />
   </a>
 </p>
 
